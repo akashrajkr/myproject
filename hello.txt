@@ -1,2 +1,3 @@
 First line on master branch
 Adding second line for new feature.
+Adding a third line and introducing a bug.
